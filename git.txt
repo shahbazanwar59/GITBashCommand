@@ -1,0 +1,11 @@
+username:shahbazanwar59
+email:shahbazanwar59@gmail.com
+
+$ git config --global user.email shahbazanwar59@gmail.com
+hit enter
+$git config --global user.name "shahbaznawar59"
+hit enter
+$ git --list
+hit enter
+$ git config --list
+hit enter
